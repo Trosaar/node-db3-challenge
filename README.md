@@ -23,6 +23,7 @@ Visit [SQL Try Editor at W3Schools.com](https://www.w3schools.com/Sql/tryit.asp?
 - Display all ProductNames and Quantities placed on order 10251. Sort by ProductName. Shows 3 records.
 - Display the OrderID, CustomerName and the employee's LastName for every order. All columns should be labeled clearly. Displays 196 records.
 
+
 ### Database Methods
 
 Write helpers methods in `./schemes/scheme-model.js` that match the following specifications:
